@@ -1,0 +1,51 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.body {
+  margin: 40px 0;
+}
+
+.formbox {
+  box-shadow: 0 1px 16px 10px rgb(64 64 64 / 8%);
+  border-radius: 16px;
+}
+
+.form-section {
+  margin: 0px 20px;
+  margin-top: 20px !important;
+}
+
+.form-section-radio {
+  margin: 0px 20px;
+}
+
+.formsection-last {
+  margin-bottom: 20px !important;
+}
+
+.formlabel {
+  font-weight: 700;
+  padding-right: 10px;
+}
+
+/********** Display **********/
+.suggestions,
+.display {
+  margin-top: 20px;
+}
+
+/********** Reset button **********/
+.reset-btn {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/********** Spinner **********/
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

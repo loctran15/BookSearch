@@ -1,0 +1,105 @@
+.book-col img {
+  height: 100%;
+  width: 180px;
+}
+
+.nomatch h2 {
+  font-size: 22px;
+  font-family: "Abril Fatface", "Spartan", sans-serif !important;
+}
+
+.book-col h1 {
+  font-family: "Abril Fatface", "Spartan", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  color: rgb(1, 21, 77);
+}
+
+.book-col h2 {
+  font-family: "Montserrat", "Spartan", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.book-col h4 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.book-col h5 {
+  font-size: 12px;
+  float: left;
+  color: rgb(113, 114, 114);
+}
+
+.book-col h6 {
+  font-size: 12px;
+  font-weight: 700;
+  float: left;
+  padding-left: 5px;
+  color: rgb(1, 21, 77);
+}
+
+.book-col p {
+  font-size: 10px;
+}
+
+.book-col .btn {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  margin: 2px;
+  padding: 5px 8px;
+}
+
+.book-details .btn {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  float: right;
+}
+
+.book-link {
+  display: inline-block;
+  background-color: transparent;
+}
+
+.book-col hr {
+  clear: both;
+  visibility: hidden;
+  margin: 0;
+}
+
+.book-col-1 {
+  padding: 0px 0px !important;
+}
+
+.book-col {
+  padding: 10px 0px;
+}
+
+.book-box {
+  transition: all 0.2s ease-in-out;
+}
+
+.book-box:hover {
+  box-shadow: 0 1px 16px 10px rgb(64 64 64 / 8%);
+  border-radius: 4px;
+  transform: scale(1.02);
+}
+
+.book-description h4 {
+  height: 60px;
+  line-height: 20px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.book-row {
+  clear: both;
+}
+
+.pagination {
+  justify-content: center;
+  margin: 20px;
+}

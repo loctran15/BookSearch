@@ -1,0 +1,94 @@
+.hero img,
+.category img {
+  width: 100%;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+/******************* Hero Section *******************/
+.hero {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url("./hero.jpeg");
+  min-height: 800px;
+}
+
+.hero-img {
+  opacity: 80%;
+}
+
+.hero-text {
+  position: relative;
+  top: 150px;
+  left: 5%;
+  width: 50%;
+  text-align: left;
+  color: white;
+}
+
+.hero-title,
+.cate-title {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+.hero-description {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+/******************* Category Section *******************/
+.category {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-image: url("./category.jpeg");
+  min-height: 600px;
+}
+
+.cate-text {
+  position: relative;
+  top: 100px;
+  left: 50%;
+  width: 50%;
+  text-align: left;
+  color: black;
+}
+
+.cate-btn {
+  flex-wrap: wrap;
+}
+
+.genre-btn {
+  margin: 5px;
+}
+
+.btn {
+  font-size: inherit;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+  .hero,
+  .category {
+    min-height: 1000px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 576px) and (max-width: 768px) {
+  .hero,
+  .category {
+    min-height: 900px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 768px) {
+  .hero,
+  .category {
+    min-height: 600px;
+  }
+}
