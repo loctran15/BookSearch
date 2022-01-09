@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/maipbui/BookSearch/blob/main/public/logo.png" width="30" height="30"/> BookSearch</h1>
+<h1>BookSearch</h1>
 
 > BookSearch is a website to find your favorite books for Google Books library.
 > BookSearch works just like web search. Try a search on BookSearch.
