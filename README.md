@@ -1,9 +1,7 @@
 <h1>BookSearch</h1>
 
-> BookSearch is a website to find your favorite books for Google Books library.
-> BookSearch works just like web search. Try a search on BookSearch.
-> When we find a book with content that contains a match for your search terms,
-> we'll link to it in your search results.
+> BookSearch is a website to find your favorite books in Google Books library.
+
 
 ## Built with
 
