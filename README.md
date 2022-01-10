@@ -11,7 +11,6 @@
 ## Features
 
 - Browse by genre
-- Basic Search
 - Advanced filters (author name, language, publisher)
 
 ## Getting Started
