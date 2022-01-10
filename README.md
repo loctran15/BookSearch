@@ -12,8 +12,7 @@
 
 - Browse by genre
 - Basic Search
-- Advanced filters
-- Search by URL query parameters
+- Advanced filters (author name, language, publisher)
 
 ## Getting Started
 
